@@ -2,13 +2,13 @@
 TO COMPILE:
 
 [
+	make
 
-  make
 ]
 
 TO RUN:
-
 [
+
 	./branch  <branch-name1> <port>  
 	
 	./branch <branch-namen> <port>  
