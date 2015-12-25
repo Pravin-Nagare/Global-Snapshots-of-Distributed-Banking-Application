@@ -1,3 +1,5 @@
+Captured global snapshots of distributed banking application using Chandy-Lamport algorithm and Apache Thrift (Java)
+
 
 TO COMPILE:
 
